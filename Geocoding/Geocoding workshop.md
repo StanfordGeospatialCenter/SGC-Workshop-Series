@@ -1,5 +1,7 @@
 # Geocoding workshop
 
+https://github.com/StanfordGeospatialCenter/SGC-Workshop-Series/blob/main/Geocoding/Geocoding%20workshop.md 
+
 ## Getting Ready
 
 ### Data Download
